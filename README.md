@@ -9,7 +9,7 @@ I am deeply interested in Systems Engineering with particular interests in opera
 
 ### **ZVM - Zubair Virtual Machine**
 
-The ZVM is a custom stack-based VM with its own two-pass assembler, assembly language (custom ISA), custom ISA and frame-based function calls and traces.  
+The ZVM is a custom stack-based VM with its own two-pass assembler, assembly language (custom ISA), custom Bytecode and frame-based function calls and traces.  
 For this project I used Java for its simplicity and abstractness.  
 Link to Project: [ZVM - Zubair Virtual Machine](https://github.com/Zubair-codes1/ZVM-Zubair_Virtual_Machine)
 

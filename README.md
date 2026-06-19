@@ -21,9 +21,9 @@ Link to Project: [ZMP — Zubair Messaging Protocol](https://github.com/Zubair-c
 
 ### **Zerminal**
 
-The Zerminal is a custom PTY based terminal that comes with a builtin shell, PTY design and graphical screen.
-For this project I used C.
-Link to Project: [Zerminal](https://github.com/Zubair-codes1/Zerminal)
+The Zerminal is a custom PTY based terminal that comes with a builtin shell, PTY design and graphical screen.  
+For this project I used C.  
+Link to Project: [Zerminal](https://github.com/Zubair-codes1/Zerminal)  
 
 ### **ZOS - Zubair Operating System (Being Engineered)**
 

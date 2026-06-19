@@ -19,6 +19,12 @@ The ZMP is a custom networking protocol built on top of TCP, with a custom packe
 For this project I used C.  
 Link to Project: [ZMP — Zubair Messaging Protocol](https://github.com/Zubair-codes1/ZMP-Zubair_Messaging_Protocol)
 
+### **Zerminal**
+
+The Zerminal is a custom PTY based terminal that comes with a builtin shell, PTY design and graphical screen.
+For this project I used C.
+Link to Project: [Zerminal](https://github.com/Zubair-codes1/Zerminal)
+
 ### **ZOS - Zubair Operating System (Being Engineered)**
 
 The ZOS will be a custom Operating System with a kernel and a bootloader designed in assembly. It will also have an I/O system.  
@@ -32,6 +38,7 @@ Link to Project: Coming Soon
 3. Experience building responsive GUI systems which are connected to external REST APIs along with application GUI experience using PyQt5.
 4. Sockets/networking knowledge and application experience
 5. Experience building a VM with a strong understanding of Computer Architecture and Assembly.
+6. Experience building and using Shells/Terminals and understanding UNIX concepts.
 
 ## **Currently Working On**
 

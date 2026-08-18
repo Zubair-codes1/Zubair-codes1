@@ -27,7 +27,7 @@ The Zerminal is a custom PTY based terminal that comes with a builtin shell, PTY
 For this project I used C.  
 Link to Project: [Zerminal](https://github.com/Zubair-codes1/Zerminal)
 
-## **PhysicsEngine2D**
+### **PhysicsEngine2D**
 
 A custom physics engine built to model rigid-bodies in a world as well as their properties such as collision and rotation.
 For this project I used C++ and the SFML library.

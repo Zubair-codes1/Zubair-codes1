@@ -9,9 +9,11 @@ I am deeply interested in Systems Engineering with particular interests in opera
 
 ### **ZVM - Zubair Virtual Machine**
 
-The ZVM is a custom stack-based VM with its own two-pass assembler, assembly language (custom ISA), custom Bytecode and frame-based function calls and traces.  
+The ZVM is a custom stack-based VM with its own two-pass assembler, assembly language (custom ISA), custom Bytecode and frame-based function calls and traces. It also has
+a custom compiler for ny Z++ language that targets my custom assembly language.
 For this project I used Java for its simplicity and abstractness.  
 Link to Project: [ZVM - Zubair Virtual Machine](https://github.com/Zubair-codes1/ZVM-Zubair_Virtual_Machine)
+Link to Documentation: [ZVM Bytecode, ISA and Z++ - Documentation](https://github.com/Zubair-codes1/ZVM-Zubair_Virtual_Machine/tree/main/docs)
 
 ### **ZMP - Zubair Messaging Protocol**
 
@@ -23,7 +25,14 @@ Link to Project: [ZMP — Zubair Messaging Protocol](https://github.com/Zubair-c
 
 The Zerminal is a custom PTY based terminal that comes with a builtin shell, PTY design and graphical screen.  
 For this project I used C.  
-Link to Project: [Zerminal](https://github.com/Zubair-codes1/Zerminal)  
+Link to Project: [Zerminal](https://github.com/Zubair-codes1/Zerminal)
+
+## **PhysicsEngine2D**
+
+A custom physics engine built to model rigid-bodies in a world as well as their properties such as collision and rotation.
+For this project I used C++ and the SFML library.
+Link to Project: [PhysicsEngine2D](https://github.com/Zubair-codes1/PhysicsEngine2D)
+
 
 ### **ZOS - Zubair Operating System (Being Engineered)**
 
@@ -33,12 +42,13 @@ Link to Project: Coming Soon
 
 ## **Technical Skills**
 
-1. Experience with three main languages: Java, C and Python.
+1. Experience with three main languages: Java, C, C++ and Python.
 2. Strong understanding of OOP and Software Engineering principles.
 3. Experience building responsive GUI systems which are connected to external REST APIs along with application GUI experience using PyQt5.
 4. Sockets/networking knowledge and application experience
 5. Experience building a VM with a strong understanding of Computer Architecture and Assembly.
 6. Experience building and using Shells/Terminals and understanding UNIX concepts.
+7. Experience using SFML in C++.
 
 ## **Currently Working On**
 
